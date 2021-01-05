@@ -2,5 +2,5 @@ package entities;
 
 public enum OrderStatus {
 
-    PENDING, DELIVERD;
+    PENDING, DELIVERED;
 }
